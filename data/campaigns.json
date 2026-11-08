@@ -1,0 +1,29 @@
+[
+  {
+    "id": "test_check_1792304470325",
+    "name": "Verification Campaign",
+    "contacts": [
+      {
+        "phoneNumber": "0771234567",
+        "name": "Test User"
+      }
+    ]
+  },
+  {
+    "id": "test_cmp_1",
+    "name": "Test Real Campaign",
+    "contacts": [
+      {
+        "id": "c1",
+        "phoneNumber": "0703393139",
+        "name": "Yuhusulu"
+      }
+    ],
+    "templates": [
+      {
+        "id": "t1",
+        "content": "Test hello {{name}}"
+      }
+    ]
+  }
+]

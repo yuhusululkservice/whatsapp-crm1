@@ -1,0 +1,8 @@
+{
+  "name": "WhatzLocal Pro - WhatsApp Bulk Sender & CRM",
+  "description": "Enterprise-grade local WhatsApp bulk sender, multi-account rotation, dynamic anti-ban campaign timings, template rotator, account warm-up engine, and CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
