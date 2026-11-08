@@ -1,7 +1,0 @@
-node_modules
-dist
-sessions
-uploads/temp
-.git
-.env
-*.log
