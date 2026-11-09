@@ -1,0 +1,36 @@
+[
+  {
+    "id": "log_1792411641121_3up3",
+    "campaignId": "cmp_manual",
+    "campaignName": "Live Campaign",
+    "timestamp": "2026-10-19 12:07:21",
+    "recipientPhone": "070 111 2233",
+    "recipientName": "Test User",
+    "senderPhone": "N/A",
+    "senderName": "Opt-Out Protection",
+    "templateId": "tpl_1",
+    "resolvedMessage": "Hello",
+    "delayAppliedSeconds": 0,
+    "hasWhatsApp": true,
+    "status": "STOPPED",
+    "postAttachment": "",
+    "errorMessage": "Skipped: Number is in Stop Numbers list (Opt-Out (STOP message received))"
+  },
+  {
+    "id": "log_1792308261532_bplj",
+    "campaignId": "cmp_test",
+    "campaignName": "Live Campaign",
+    "timestamp": "2026-10-18 07:24:21",
+    "recipientPhone": "0719998877",
+    "recipientName": "Blocked User",
+    "senderPhone": "N/A",
+    "senderName": "Opt-Out Protection",
+    "templateId": "t1",
+    "resolvedMessage": "Hello",
+    "delayAppliedSeconds": 0,
+    "hasWhatsApp": true,
+    "status": "STOPPED",
+    "postAttachment": "",
+    "errorMessage": "Skipped: Number is in Stop Numbers list (Opt-Out (STOP message received))"
+  }
+]

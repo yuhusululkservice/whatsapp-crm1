@@ -1,0 +1,21 @@
+{
+  "autoStopMode": "DURATION",
+  "stopDurationMinutes": 45,
+  "stopDialogueLimit": 35,
+  "scriptStyle": "sinhala_singlish",
+  "customTopicPrompt": "",
+  "useAiGeneration": true,
+  "scheduleEnabled": false,
+  "scheduleDays": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "scheduleStartTime": "08:00",
+  "scheduleStopTime": "20:00",
+  "timezone": "Asia/Colombo"
+}

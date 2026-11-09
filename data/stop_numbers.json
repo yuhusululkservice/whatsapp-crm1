@@ -1,0 +1,16 @@
+[
+  {
+    "id": "stop_1792308261514_ql7p",
+    "phoneNumber": "0701112233",
+    "normalizedPhone": "94701112233",
+    "reason": "Opt-Out (STOP message received)",
+    "addedAt": "2026-10-18 07:24"
+  },
+  {
+    "id": "stop_1792308261514_fytx",
+    "phoneNumber": "0775554433",
+    "normalizedPhone": "94775554433",
+    "reason": "Opt-Out (STOP message received)",
+    "addedAt": "2026-10-18 07:24"
+  }
+]
